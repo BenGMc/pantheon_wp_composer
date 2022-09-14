@@ -58,7 +58,7 @@
     "wpackagist-plugin/fakerpress":"0.5.3"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.6.2",
+    "squizlabs/php_codesniffer": "^3.7.1",
     "roave/security-advisories": "dev-latest"
   },
   "config": {
