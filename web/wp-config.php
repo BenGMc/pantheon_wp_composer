@@ -20,3 +20,6 @@ if (file_exists(dirname(__FILE__) . '/wp-config-pantheon.php') && isset($_ENV['P
 require_once dirname(__DIR__) . '/config/application.php';
 
 require_once ABSPATH . 'wp-settings.php';
+
+/* Trying to disable the editor feature (FSE) so we can administrate menus directly */
+define('DISABLE_FSE', true);
