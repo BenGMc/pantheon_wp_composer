@@ -51,7 +51,7 @@
     "wpackagist-theme/twentytwentytwo": "^1.2",
     "pantheon-systems/pantheon-mu-plugin": "^1.0",
     "wpackagist-plugin/lh-hsts": "^1.25",
-    "wpackagist-plugin/pantheon-advanced-page-cache": "^1.0",
+    "wpackagist-plugin/pantheon-advanced-page-cache": "^1.2",
     "wpackagist-plugin/wp-native-php-sessions": "^1.2",
     "pantheon-systems/pantheon-decoupled": "dev-main",
     "wpackagist-plugin/wp-gatsby": "^2.0",
